@@ -48,12 +48,14 @@ ProjectName
 
 2.【研报复现】国泰君安——191个短周期量价特征因子选股系列二（Alpha004-006） - 知乎  https://zhuanlan.zhihu.com/p/31566062
 
+3. 数值型因子的大规模分层测试---WorldQuant 101、国泰191、Sundays100+ - 知乎  https://zhuanlan.zhihu.com/p/60872286
+
 #### 单因子主观分类
 日频量化因子分类 - 知乎  https://zhuanlan.zhihu.com/p/270265896
 
 #### 概念理解
-【量化学堂】短周期价量特征因子研究 - 知乎  https://zhuanlan.zhihu.com/p/34586782
+1.【量化学堂】短周期**价量特征因子**研究 - 知乎  https://zhuanlan.zhihu.com/p/34586782
 
-
+2. 量化交易与机器学习（四）：如何研究**alpha因子** - 知乎  https://zhuanlan.zhihu.com/p/326900791
 
 
