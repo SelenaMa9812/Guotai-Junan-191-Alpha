@@ -1,6 +1,6 @@
 # 短周期多因子阿尔法选股策略
 ## 目标
-2015年底 WorldQuant(世坤投资)发布了***WorldQuant Formulaic 101 Alphas***[1]，2017年6月15日国泰君安证券发表了***基于短周期量价特征的多因子选股体系***，构造并运用191个短周期阿尔法因子搭建多因子选股策略。
+2015年底 WorldQuant(世坤投资)发布了***WorldQuant Formulaic 101 Alphas***[1]，2017年6月15日国泰君安证券发表了[***基于短周期量价特征的多因子选股体系***](https://github.com/SelenaMa9812/Guotai-Junan-191-Alpha/blob/main/files/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89%EF%BC%8D%E5%9F%BA%E4%BA%8E%E7%9F%AD%E5%91%A8%E6%9C%9F%E4%BB%B7%E9%87%8F%E7%89%B9%E5%BE%81%E7%9A%84%E5%A4%9A%E5%9B%A0%E5%AD%90%E9%80%89%E8%82%A1%E4%BD%93%E7%B3%BB.pdf)，构造并运用191个短周期阿尔法因子搭建多因子选股策略。
 
 因子生成过程基本上实现了自动化，产生的因子数量可以达到几十万甚至数百万，101 Alphas只是揭示了能够用显式公式表示的少量因子，国泰君安191 Alphas则是针对短周期量价构造的因子。
 
